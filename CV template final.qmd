@@ -1,0 +1,141 @@
+---
+format: 
+  html
+---
+
+```{r}
+#| echo: false
+#| message: false
+
+knitr::opts_chunk$set(root.dir = "/Users/shouben/Documents/R/CV")
+```
+
+::: column-page
+::: {style="background-color:#104B7A; color:white; display:flex; align-items:center; font-size:16px;"}
+::: {style="flex-shrink:0;"}
+<img src="zena.jpg" alt="Sarah Houben" style="margin: 15px 15px; border-radius: 50%; border: 3px solid #fff; width: 205px; height: 190px;"/>
+:::
+
+<div>
+
+<h2>Coding Zena</h2>
+
+**Gender:** Female         **Date of birth:** 01/05/2015         **Nationality:** Belgian\
+**Residence:** Belgium\
+**Phone:** (+32)0123456789\
+**Email:** <a href="mailto:codingzena@gmail.com" style="color:white;">codingzena\@gmail.com</a>\
+**ORCID:** <a href="https://orcid.org/" style="color:white;">0000-0000-0000-0000</a>\
+**LinkedIn:** <a href="https://www.linkedin.com/in/sarah-houben-6238abba/" style="color:white;">sarah-houben-6238abba</a>
+
+</div>
+:::
+:::
+
+# PROFESSIONAL EXPERIENCE {style="color: #104B7A;"}
+
+## Chief Operating Officer {style="color:  #104B7A;"}
+
+::: {style="color: gray; font-style: italic; font-size:15px;"}
+*1^st^ January 2023 – Today*                                                                                                                          **Home (Belgium)**
+:::
+
+::: {style="color: black; margin-top: 10px; text-align: justify;"}
+-   Hooman sleeping hours coordination 
+    -   Wake her up at decent hour
+    -   Jump on her if she is not cooperative 
+-   Control food quality
+-   Control of litter box emptyness
+:::
+
+## Sleeping Manager {style="color:  #104B7A;"}
+
+::: {style="color: gray; font-style: italic; font-size:15px;"}
+*2^nd^ August 2021 – 31^st^ December 2022*                                                                                                 **Bedroom (Belgium)**
+:::
+
+::: {style="color: black; text-align: justify;"}
+-   Data management
+-   Creation and implementation of a wake-up alarm
+-   Coordination of my hooman sleep hours
+-   Ensure my hooman does not sleep too much
+:::
+
+## Hunter {style="color:  #104B7A;"}
+
+::: {style="color: gray; font-style: italic; font-size:15px;"}
+*10^th^ October 2013 – 31^st^ July 2021*                                                                                                            **Home (Belgium)**
+:::
+
+::: {style="color: black; text-align: justify;"}
+-   Laser pointer chaser 
+-   Spiders hunter
+:::
+
+# EDUCATION {style="color:  #104B7A;"}
+
+::: {style="color: black"}
+2013 - 2020     **PhD in Sleeping sciences**                                                                                              Home\
+2011 - 2013     **Master in Sleeping Sciences**                                                                                         Home\
+2007 - 2011     **Bachelor in Sleeping Sciences**                                                                                      Home\
+:::
+
+# TRAINING {style="color:  #104B7A;"}
+
+::: {style="color: black"}
+2021 - Today    **Data Science and Data Management**                                                                   DataCamp\
+2023                 **Responsive Web Design**                                                                                 freeCodeCamp\
+:::
+
+# LANGUAGES {style="color:  #104B7A;"}
+
+::: {style="color: black"}
+|              |            |             |            |           |             |
+|:------------:|:----------:|:-----------:|:----------:|:---------:|:-----------:|
+| **Language** | **French** | **English** | **German** | **Dutch** | **Spanish** |
+|  **Level**   |   Native   |     C2      |     C1     |    B2     |     B1      |
+:::
+
+# IT SKILLS {style="color:  #104B7A;"}
+
+::: {style="color: black;"}
+**Data Science and Data Management:** R, Python, SQL\
+**Spatial Data Analysis:** GIS (QGIS & R)\
+**Word Processing and Communication:** Office Suite, LaTeX, RMarkdown, Quarto, Shiny\
+**Web Development:** CMS (Drupal), Visual Studio Code (HTML5, CSS3, JavaScript)\
+:::
+
+# SOFT SKILLS {style="color:  #104B7A;"}
+
+::: {style="color: black"}
+Empty the litter box really quicky \
+Can meow very loudly \
+Can sleep everywhere \
+Can sleep for 15 hours in a row \
+:::
+
+# VOLUNTEERING {style="color:  #104B7A;"}
+
+::: {style="color: black"}
+2016 - Today    **Volunteer in a cat shelter**
+:::
+
+# HOBBIES {style="color:  #104B7A;"}
+
+::: {style="color: black"}
+Travel, Coding, Photography, Treks, Piano, Drawing, and Painting
+:::
+
+# PUBLICATIONS {style="color:  #104B7A;"}
+
+
+::: {style="color: red; text-align: justify;"}
+Not my paper but to stay consistent with the theme of this template and to finish with a humor note.
+:::
+
+::: {style="color: black; text-align: justify;"}
+
+**2024** \
+Cat Ownership and Schizophrenia-Related Disorders and Psychotic-Like Experiences: A Systematic Review and Meta-Analysis.
+John J McGrath, Carmen C W Lim, Sukanta Saha
+[DOI: 10.1093/schbul/sbad168](https://pubmed.ncbi.nlm.nih.gov/38041862/)\
+:::
