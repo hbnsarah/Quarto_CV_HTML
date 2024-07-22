@@ -12,9 +12,7 @@ setwd("~/R/CV")
 
 ::: column-page
 ::: {style="background-color:#104B7A; color:white; display:flex; align-items:center; font-size:16px;"}
-::: {style="flex-shrink:0;"}
-<img src="zena.jpg" alt="Sarah Houben" style="margin: 15px 15px; border-radius: 50%; border: 3px solid #fff; width: 205px; height: 190px;"/>
-:::
+<img src="zena.jpg" alt="Zena" style="margin: 15px 15px; border-radius: 50%; border: 3px solid #fff; width: 205px; height: 190px;"/>
 
 <div>
 
@@ -33,16 +31,16 @@ setwd("~/R/CV")
 
 # PROFESSIONAL EXPERIENCE {style="color: #104B7A;"}
 
-## Chief Operating Officer {style="color:  #104B7A;"}
+## Chief Operating Officer {style="color: #104B7A;"}
 
 ::: {style="color: gray; font-style: italic; font-size:15px;"}
-*1^st^ January 2023 – Today*                                                                                                                          **Home (Belgium)**
+*1^st^ January 2023 – Today*                                                                                                                         **Home (Belgium)**
 :::
 
 ::: {style="color: black; margin-top: 10px; text-align: justify;"}
--   Hooman sleeping hours coordination 
+-   Hooman sleeping hours coordination
     -   Wake her up at decent hour
-    -   Jump on her if she is not cooperative 
+    -   Jump on her if she is not cooperative
 -   Control food quality
 -   Control of litter box emptyness
 :::
@@ -67,7 +65,7 @@ setwd("~/R/CV")
 :::
 
 ::: {style="color: black; text-align: justify;"}
--   Laser pointer chaser 
+-   Laser pointer chaser
 -   Spiders hunter
 :::
 
@@ -107,10 +105,10 @@ setwd("~/R/CV")
 # SOFT SKILLS {style="color:  #104B7A;"}
 
 ::: {style="color: black"}
-Empty the litter box really quicky \
-Can meow very loudly \
-Can sleep everywhere \
-Can sleep for 15 hours in a row \
+Empty the litter box really quicky\
+Can meow very loudly\
+Can sleep everywhere\
+Can sleep for 15 hours in a row\
 :::
 
 # VOLUNTEERING {style="color:  #104B7A;"}
@@ -127,15 +125,11 @@ Travel, Coding, Photography, Treks, Piano, Drawing, and Painting
 
 # PUBLICATIONS {style="color:  #104B7A;"}
 
-
 ::: {style="color: red; text-align: justify;"}
 Not my paper but to stay consistent with the theme of this template and to finish with a humor note.
 :::
 
 ::: {style="color: black; text-align: justify;"}
-
-**2024** \
-Cat Ownership and Schizophrenia-Related Disorders and Psychotic-Like Experiences: A Systematic Review and Meta-Analysis.
-John J McGrath, Carmen C W Lim, Sukanta Saha
-[DOI: 10.1093/schbul/sbad168](https://pubmed.ncbi.nlm.nih.gov/38041862/)\
+**2024**\
+Cat Ownership and Schizophrenia-Related Disorders and Psychotic-Like Experiences: A Systematic Review and Meta-Analysis. John J McGrath, Carmen C W Lim, Sukanta Saha [DOI: 10.1093/schbul/sbad168](https://pubmed.ncbi.nlm.nih.gov/38041862/)\
 :::
