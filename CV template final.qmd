@@ -7,7 +7,7 @@ format:
 #| echo: false
 #| message: false
 
-knitr::opts_chunk$set(root.dir = "/Users/shouben/Documents/R/CV")
+setwd("~/R/CV")
 ```
 
 ::: column-page
